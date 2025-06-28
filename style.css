@@ -1,0 +1,18 @@
+body {
+  background: #fffdf6;
+  font-family: 'Mangal', sans-serif;
+  text-align: center;
+  padding: 60px;
+  color: #502515;
+}
+h1 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+#vachan {
+  font-size: 1.3em;
+  background: #fff7e5;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px #ffd;
+}
